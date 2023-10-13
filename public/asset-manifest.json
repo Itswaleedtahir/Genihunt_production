@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ad4cd847.css",
+    "main.js": "/static/js/main.9f2034f2.js",
+    "static/js/787.e7e5f5c3.chunk.js": "/static/js/787.e7e5f5c3.chunk.js",
+    "static/media/successGif.gif": "/static/media/successGif.e7989c030195e5d35fc3.gif",
+    "static/media/card.svg": "/static/media/card.54e37e15447e44d3f09cdfa759a767d3.svg",
+    "static/media/logo1.png": "/static/media/logo1.a75a26325736de65a113.png",
+    "static/media/Bimage.svg": "/static/media/Bimage.d5e3c121e931b413aaee.svg",
+    "static/media/front.svg": "/static/media/front.12e19ff5cc1ceedc7b89c6a7e1f57e1c.svg",
+    "static/media/Circular.png": "/static/media/Circular.4f8ccd4073b3a3d7a04e.png",
+    "static/media/GeniHuntLogo.png": "/static/media/GeniHuntLogo.5f5a46ce6cbf32e6e11d.png",
+    "static/media/cardIcon.svg": "/static/media/cardIcon.af683dc1ac15b0e7e06d1c1e3daa7d30.svg",
+    "static/media/doller.svg": "/static/media/doller.479904ab0225284a57bd951fca74128d.svg",
+    "static/media/CompanyIcon.svg": "/static/media/CompanyIcon.314698960638a6952770bd71c9f14243.svg",
+    "index.html": "/index.html",
+    "static/media/searchIcon.svg": "/static/media/searchIcon.abe1982140b0a10a5b76947f55fc3af0.svg",
+    "static/media/locationside.svg": "/static/media/locationside.178502feac2f8e0c8d867b5294f3d8e2.svg",
+    "static/media/check.svg": "/static/media/check.7eb59555c14aa494a9c0e08d62af5045.svg",
+    "static/media/icon 1.svg": "/static/media/icon 1.f8bb2f76004d701d0f351ff5af9d0e4b.svg",
+    "static/media/Icon.svg": "/static/media/Icon.764aab576091a421e7a905576f6a854b.svg",
+    "static/media/uncheck.svg": "/static/media/uncheck.a7dcb897519b71de3d70269bb740607b.svg",
+    "main.ad4cd847.css.map": "/static/css/main.ad4cd847.css.map",
+    "main.9f2034f2.js.map": "/static/js/main.9f2034f2.js.map",
+    "787.e7e5f5c3.chunk.js.map": "/static/js/787.e7e5f5c3.chunk.js.map"
+  },
+  "entrypoints": ["static/css/main.ad4cd847.css", "static/js/main.9f2034f2.js"]
+}

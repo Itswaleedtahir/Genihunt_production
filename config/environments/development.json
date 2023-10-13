@@ -1,0 +1,9 @@
+{
+  "port": 5000,
+  "db": {
+    "username": "k2x_admin",
+    "password": "#P35h4w4rPr0ud!Dbk2x",
+    "name": "Genihunt",
+    "host": "k2x-dev-db.cluster-ro-cbfte2i14par.eu-west-1.rds.amazonaws.com"
+  }
+}
