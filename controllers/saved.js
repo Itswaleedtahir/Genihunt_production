@@ -2,6 +2,8 @@ const { SavedCompany, Notifications, Recents } = require("../models/index");
 const recents = require("../models/recents");
 const { sendEmailWithAttachment } = require("../middleware/sendEmail");
 module.exports = {
+
+  // Company saving API
   Save: async (req, res, io) => {
     try {
       const { Data } = req.body;
