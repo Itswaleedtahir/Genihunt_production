@@ -190,4 +190,22 @@ module.exports = {
         .send(err.message || "Something went wrong...");
     }
   },
+  // user_login : async (req,res)=>{
+  //   try {
+  //     const {  email, password} = req.body;
+  //     if(!email || !password) return res.status(401).send("Email and is required")
+  //     const Checkuser= await SignUp.findOne({
+  //         where:{
+  //           email:email,
+  //         }
+  //   })
+  //   if(!Checkuser) return res.status(401).send("user not found")
+    
+  //   } catch (error) {
+  //     console.log(error);
+  //     res.
+  //     status(400).
+  //     send("error", error)
+  //   }
+  // }
 };
