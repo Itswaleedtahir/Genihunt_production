@@ -63,6 +63,8 @@ module.exports = {
         .send(err.message || "Something went wrong...");
     }
   },
+
+  //deleting a single saved company
   delete: async (req, res) => {
     try {
       const { id } = req.params;
