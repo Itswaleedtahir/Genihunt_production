@@ -109,6 +109,8 @@ module.exports = {
         .send(err.message || "Something went wrong...");
     }
   },
+
+  //Marked the notification as read
   read_notifications: async (req, res) => {
     try {
       const { notificationIds } = req.body; // Expect a single notification ID
