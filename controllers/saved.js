@@ -89,6 +89,8 @@ module.exports = {
         .send(err.message || "Something went wrong...");
     }
   },
+
+  //Getting  all the notifications
   get_notifications: async (req, res) => {
     try {
       const userData = req.user;
