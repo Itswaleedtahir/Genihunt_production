@@ -169,6 +169,8 @@ module.exports = {
         .send(err.message || "Something went wrong...");
     }
   },
+
+  //Finding multiple logos
   multiple_logos: async (req, res) => {
     try {
       const { the_keys } = req.body; // Assuming the_keys is an array of keys
