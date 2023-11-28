@@ -237,6 +237,7 @@ module.exports = {
         .send(err.message || "something went wrong...");
     }
   },
+  //Finding single  record
   ById: async (req, res) => {
     try {
       const { the_key } = req.body;
