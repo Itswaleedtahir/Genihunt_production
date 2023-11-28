@@ -199,7 +199,7 @@ module.exports = {
         .send(err.message || "Something went wrong...");
     }
   },
-
+//Recommendations API
   recommendation: async (req, res) => {
     try {
       const { firstCompLatitude, firstCompLongitude } = req.body;
