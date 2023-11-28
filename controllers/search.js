@@ -143,6 +143,7 @@ module.exports = {
     }
   },
 
+    //Finding single logo
   logo: async (req, res) => {
     try {
       const { the_key } = req.body;
